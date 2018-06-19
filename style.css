@@ -6,10 +6,11 @@ h2
 
 }
 
-
-.p {
+p {   
+        font-family: cursive;
         color: white;
 }
 ol {
+   font-family: cursive;
     color: white;
 }
