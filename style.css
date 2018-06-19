@@ -6,9 +6,10 @@ h2
 
 }
 
-.p 
-    { color: white;}
 
-li {
+p {
+        color: white;
+}
+ol {
     color: white;
 }
